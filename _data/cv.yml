@@ -1,0 +1,61 @@
+cv:
+  name: Zhongyue Zhang
+  label: PhD Student
+  email: zhongyue.zhang@sjtu.edu.cn
+  location: Shanghai, China
+  image: ""
+  summary: PhD student at SJTU GIFT, working on AI Agents, foundation models for AI4Science, and biological LLM applications.
+
+  social_networks:
+    - network: GitHub
+      username: RiddleXyz
+
+  sections:
+    Education:
+      - institution: Shanghai Jiao Tong University
+        location: Shanghai, China
+        url: https://gift.sjtu.edu.cn/
+        area: AI for Science
+        studyType: PhD
+        start_date: 2023
+        end_date: present
+        highlights:
+          - "Supervised by Prof. Shuangjia Zheng"
+          - "Global Institute of Future Technology (GIFT)"
+
+      - institution: Sun Yat-sen University
+        location: Guangzhou, China
+        url: https://www.sysu.edu.cn/
+        area: Computer Science
+        studyType: Master
+        start_date: 2020
+        end_date: 2023
+        highlights:
+          - "Supervised by Prof. Yuedong Yang"
+
+      - institution: Sun Yat-sen University
+        location: Guangzhou, China
+        url: https://www.sysu.edu.cn/
+        area: Computer Science
+        studyType: Bachelor
+        start_date: 2016
+        end_date: 2020
+
+    Experience:
+      - company: Lingang Laboratory
+        location: Shanghai, China
+        position: AI Researcher
+        url: https://www.lglab.ac.cn/
+        summary: Research on AI agents for drug discovery.
+
+      - company: Tencent
+        location: Shenzhen, China
+        position: AI Researcher
+        url: https://www.tencent.com/en-us/
+        summary: AI research and development.
+
+      - company: National Supercomputer Center in Guangzhou
+        location: Guangzhou, China
+        position: AI Researcher
+        url: http://www.nscc-gz.cn/
+        summary: High-performance computing for AI applications.
