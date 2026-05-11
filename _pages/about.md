@@ -7,7 +7,7 @@ subtitle: PhD Student at <a href='https://gift.sjtu.edu.cn/'>GIFT</a>, <a href='
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
     <p>Shanghai, China</p>
 
@@ -15,7 +15,7 @@ selected_papers: true
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
