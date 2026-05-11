@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://RiddleXyz.github.io/sitemap.xml
