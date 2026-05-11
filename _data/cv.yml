@@ -17,7 +17,7 @@ cv:
         url: https://gift.sjtu.edu.cn/
         area: AI for Science
         studyType: PhD
-        start_date: 2023
+        start_date: 2024
         end_date: present
         highlights:
           - "Supervised by Prof. Shuangjia Zheng"
@@ -28,8 +28,8 @@ cv:
         url: https://www.sysu.edu.cn/
         area: Computer Science
         studyType: Master
-        start_date: 2020
-        end_date: 2023
+        start_date: 2016
+        end_date: 2020
         highlights:
           - "Supervised by Prof. Yuedong Yang"
 
@@ -38,8 +38,8 @@ cv:
         url: https://www.sysu.edu.cn/
         area: Computer Science
         studyType: Bachelor
-        start_date: 2016
-        end_date: 2020
+        start_date: 2013
+        end_date: 2016
 
     Experience:
       - company: Lingang Laboratory
